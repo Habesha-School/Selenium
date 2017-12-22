@@ -3,7 +3,7 @@ Feature: Testing registriaon page with different values
   password and confirm password correclty
   The requirement says password must be > 6 char,
   and at least 1 upperl, 1 number, 1 sepecial character and no space
-  so that we can refer them easi, password and confirm password
+  so that we can refer them easi, password and confirm password. # next version will be released soon
 
   Background: 
     Given your are in registraion page "http://newtours.demoaut.com/mercuryregister.php"
